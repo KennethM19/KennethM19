@@ -59,6 +59,6 @@
 
 ###
 
-<p align="left">kenneth2001mp@gmail.com</p>
+<a href="mailto:kenneth2001mp@gmail.com">kenneth2001mp@gmail.com</a>
 
 ###
