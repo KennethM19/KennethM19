@@ -60,6 +60,6 @@
 
 ###
 
-<a href="mailto:kenneth2001mp@gmail.com">kenneth2001mp@gmail.com</a>
+<a href="mailto:kenneth2001mp@gmail.com">my email</a>
 
 ###
