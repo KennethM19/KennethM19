@@ -56,10 +56,5 @@
 
 ###
 
-<h2 align="left">📧 Contact with me:</h2>
+<h2><a href="mailto:kenneth2001mp@gmail.com">📧 Contact with me</a></h2>
 
-###
-
-<a href="mailto:kenneth2001mp@gmail.com">my email</a>
-
-###
