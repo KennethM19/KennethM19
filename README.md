@@ -59,7 +59,7 @@ I enjoy turning ideas into real products using clean code and efficient solution
   <a href="https://www.linkedin.com/in/kenneth-javier-mendoza-porras-99a4b4205/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/kenjav17" target="_blank">
+  <a href="https://x.com/keniky550" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter"/>
   </a>
 </div>
